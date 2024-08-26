@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://olonisib.github.io/sitemap.html.gz
+Sitemap: https://olonisib.github.io/app/sitemap.html.gz
+Sitemap: https://olonisib.github.io/assets/sitemap.html.gz
+Sitemap: https://olonisib.github.io/css/sitemap.html.gz
+Sitemap: https://olonisib.github.io/includes/sitemap.html.gz
+Sitemap: https://olonisib.github.io/item/sitemap.html.gz
+Sitemap: https://olonisib.github.io/src/sitemap.html.gz
